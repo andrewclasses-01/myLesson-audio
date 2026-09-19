@@ -66,6 +66,16 @@ không có thì rút tiếng từ mp4.
 ⚠ Thư mục `Tests Flyers 1 CD` là bản rip đĩa gốc (tên tiếng Nga `01 Дорожка 1`),
 KHÔNG phải bài giao — đừng đưa lên kho.
 
+### Đã làm 19/09/2026 — ĐẨY TRỌN KHO (118 bài)
+
+Quét toàn bộ `D:. LISTENING`: 145 mã bài có file media, kho mới có 21. Nén 118 bài còn lại
+(tất cả rút tiếng từ mp4, ffmpeg `myLesson-datain`, 64 kbps mono, ~3 phút), cất bản mp3 vào
+`AUDIO\` của từng buổi trên ổ D rồi chép sang kho. Kho nay **139 bài / 277 MB** (IEL 64 · LSB1 36 ·
+LSA2 32 · LSFLY 7). Kiểm chứng: 7/7 file live khớp SHA-256 bản local.
+
+⚠ **Chưa đưa lên 6 bài `FLY-S2.T1..T3`** (thư mục `LSFLY-S2` nhưng file đặt mã `FLY-S2…` — lệch
+quy ước `LSFLY-`; chờ thầy chốt đổi tên rồi mới nén).
+
 ## Vì sao không để trên Google Drive
 
 Đã thử cả ba kiểu link tải trực tiếp của Drive — trình duyệt **từ chối phát**
